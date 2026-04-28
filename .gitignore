@@ -1,0 +1,15 @@
+# Working materials — not for the public repo
+plan/
+reference/
+post-v1.md
+post-v2.md
+
+# Backups & build noise
+*.bak
+*.bak-*
+.DS_Store
+Thumbs.db
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
